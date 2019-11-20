@@ -4,6 +4,8 @@ public class MAIN {
 
         //LMAO
 
+        System.out.println("Hello World!");
+
     }
 
 }
